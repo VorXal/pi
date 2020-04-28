@@ -1,0 +1,11 @@
+E:\C#\PI\ProfitableIndex\ProfitableIndex\bin\Release\netcoreapp3.1\ProfitableIndex.exe
+E:\C#\PI\ProfitableIndex\ProfitableIndex\bin\Release\netcoreapp3.1\ProfitableIndex.deps.json
+E:\C#\PI\ProfitableIndex\ProfitableIndex\bin\Release\netcoreapp3.1\ProfitableIndex.runtimeconfig.json
+E:\C#\PI\ProfitableIndex\ProfitableIndex\bin\Release\netcoreapp3.1\ProfitableIndex.runtimeconfig.dev.json
+E:\C#\PI\ProfitableIndex\ProfitableIndex\bin\Release\netcoreapp3.1\ProfitableIndex.dll
+E:\C#\PI\ProfitableIndex\ProfitableIndex\bin\Release\netcoreapp3.1\ProfitableIndex.pdb
+E:\C#\PI\ProfitableIndex\ProfitableIndex\obj\Release\netcoreapp3.1\ProfitableIndex.AssemblyInfoInputs.cache
+E:\C#\PI\ProfitableIndex\ProfitableIndex\obj\Release\netcoreapp3.1\ProfitableIndex.AssemblyInfo.cs
+E:\C#\PI\ProfitableIndex\ProfitableIndex\obj\Release\netcoreapp3.1\ProfitableIndex.dll
+E:\C#\PI\ProfitableIndex\ProfitableIndex\obj\Release\netcoreapp3.1\ProfitableIndex.pdb
+E:\C#\PI\ProfitableIndex\ProfitableIndex\obj\Release\netcoreapp3.1\ProfitableIndex.csprojAssemblyReference.cache
